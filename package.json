@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-x-toast",
+  "version": "0.1.0",
+  "description": "This plugin allows you to show a Toast. A Toast is a little non intrusive buttonless popup which automatically disappears.",
+  "cordova": {
+    "id": "cordova-plugin-x-toast",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielKruegerDevtests/TestToastyPlugin.git"
+  },
+  "keywords": [
+    "Toast",
+    "Notification",
+    "Message",
+    "Alert",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8",
+    "cordova-windows",
+    "cordova-blackberry10"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Daniel Kruegern <danielkrueger.devtest@gmail.com > (https://github.com/DanielKruegerDevtests)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielKruegerDevtests/TestToastyPlugin/issues"
+  },
+  "homepage": "https://github.com/DanielKruegerDevtests/TestToastyPlugin"
+}
